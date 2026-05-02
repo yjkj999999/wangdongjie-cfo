@@ -16,4 +16,11 @@
   <priority>1.0</priority>
 </url>
 
+<url>
+  <loc>https://wdj.net.cn/en/</loc>
+  <lastmod>2026-05-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
 </urlset>
